@@ -2,7 +2,7 @@
 
 I utilized this architecture during my internship. More info soon. 
 
-Click on [SWat dataset] to find the toy data that can be used to run this model. 
+Click on [SWat dataset] to find info on the data that can be used to run this model immediately. 
 
 ## Citation
 
