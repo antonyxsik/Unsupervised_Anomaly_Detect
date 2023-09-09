@@ -1,14 +1,16 @@
-# USAD - UnSupervised Anomaly Detection on multivariate time series
+# UnSupervised Anomaly Detection on multivariate time series
 
-Scripts and utility programs for implementing the USAD architecture.
+I utilized this architecture during my internship. More info soon. 
 
-Implementation by: Francesco Galati.
 
-Additional contributions: Julien Audibert, Maria A. Zuluaga.
+## Test Data Sets 
 
-## How to cite
+[SWaT dataset]: https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#swat
+[USAD : UnSupervised Anomaly Detection on multivariate time series]: https://dl.acm.org/doi/pdf/10.1145/3394486.3403392
 
-If you use this software, please cite the following paper as appropriate:
+## Citation
+
+Here is the citation for the original paper and the creators of the model architecture:
 
     Audibert, J., Michiardi, P., Guyard, F., Marti, S., Zuluaga, M. A. (2020).
     USAD : UnSupervised Anomaly Detection on multivariate time series.
@@ -18,20 +20,12 @@ If you use this software, please cite the following paper as appropriate:
  * PyTorch 1.6.0
  * CUDA 10.1 (to allow use of GPU, not compulsory)
 
-## Running the Software
-
-All the python classes and functions strictly needed to implement the USAD architecture can be found in `usad.py`.
-An example of an application deployed with the [SWaT dataset] is included in `USAD.ipynb`.
 
 ## Copyright and licensing
 
-Copyright 2020 Eurecom.
+The authors ask that the LICENSE be present in the Github repositories if the code is used, so it can be viewed above as "LICENSE". 
 
-This software is released under the BSD-3 license. Please see the license file_ for details.
-
-## Publication
-
-Audibert et al. [USAD : UnSupervised Anomaly Detection on multivariate time series]. 2020
+## Test Data Sets 
 
 [SWaT dataset]: https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#swat
 [USAD : UnSupervised Anomaly Detection on multivariate time series]: https://dl.acm.org/doi/pdf/10.1145/3394486.3403392
