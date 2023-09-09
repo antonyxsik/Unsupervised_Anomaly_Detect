@@ -1,4 +1,4 @@
-# UnSupervised Anomaly Detection on multivariate time series
+# UnSupervised Anomaly Detection for Multivariate Time Series
 
 I utilized this architecture during my internship. More info soon. 
 
