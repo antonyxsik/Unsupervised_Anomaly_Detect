@@ -1,6 +1,6 @@
 # UnSupervised Anomaly Detection for Multivariate Time Series
 
-I utilized this architecture during my internship. More info soon. 
+I utilized this architecture during my internship at NASA's Jet Propulsion Laboratory to perform certain anomaly detection tasks for the Deep Space Network. Since the the majority of the changes made were done with respect to particular data sets that we were using, most of them have been removed, and the model is only slightly modified. In addition, a few basic techniques were implemented in the latent space exploration file to determine the key number of variables and effectively the dimension of the latent space for the model. I figured that despite the fact that I can not upload our custom and more advanced architecture that was built off of this model, sharing it as a staple method for anomaly detection in mutlivariate data is still a good idea. If you would like to run it out of the box, you can use the classic [SWat dataset], and everything should be configured to work immediately. I highly recommend reading the paper (citation below) for further details so you understand the benefits of the dual adversarially trained autoencoder architecture, and know what hyperparameters you can play with to see immediate and logical changes. 
 
 Click on [SWat dataset] to find info on the data that can be used to run this model immediately. 
 
